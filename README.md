@@ -1,0 +1,3 @@
+- 👋 Hi, my name is Otávio (@otavioromao)
+- 👀 I’m interested in learning software development technologies and frameworks.
+- 📫 You can reach me by e-mail otavioromao@gmail.com
